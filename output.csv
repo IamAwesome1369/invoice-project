@@ -1,0 +1,4 @@
+description,quantity,price,invoice_number,date,total_amount
+Product 1,1,26.69,30/5/2024,30/5/2024,213.51
+Product 2,1,53.38,30/5/2024,30/5/2024,213.51
+Product 3,1,133.44,30/5/2024,30/5/2024,213.51
